@@ -9,8 +9,7 @@ install:
 
 	# might need something like
 	# sudo tlmgr option repository ftp://tug.org/historic/systems/texlive/2021/tlnet-final
-	tlmgr install fontaxes
-	tlmgr install roboto
+	tlmgr install clearsans
 
 pdf:
 	pandoc --wrap=preserve resume.md -o resume.pdf
