@@ -10,7 +10,7 @@ fontfamily: clearsans
 
 # Tim Whitson 
 
-Athens / Atlanta, GA | [twhitsn@gmail.com](mailto:twhitsn@gmail.com) | [github.com/twhitsn](https://github.com/twhitsn) | [linkedin.com/in/tim-whitson](https://linkedin.com/in/tim-whitson)
+Athens / Atlanta, GA | [twhitsn@gmail.com](mailto:twhitsn@gmail.com) | [linkedin.com/in/tim-whitson](https://linkedin.com/in/tim-whitson)
 
 ## Work Experience \hrulefill
 
@@ -19,15 +19,16 @@ Athens / Atlanta, GA | [twhitsn@gmail.com](mailto:twhitsn@gmail.com) | [github.c
 Software Engineer \hfill Nov 2022 - Present   
 
 - Working on a cross-functional team of Software and Cybersecurity Engineers, automating adversary emulation and integrating security testing into development pipelines for multiple high-stake government customers
-- Developed integration testing framework, preventing hundreds of bugs from entering production
-- Met with subject matter experts to scope and develop automation for validating releases, saving dozens of hours of manual review per week
+- Designed and implemented integration testing framework, preventing hundreds of bugs from entering production
+- Spearheaded the design and implementation of a new deployment system, leading a team of cross-functional senior engineers that reduced deployment time by 90%
+- Drove improvement of organization processes, such as design, documentation, tasking and mentoring, resulting in less rework, streamlined task management, and productivity improvements
 <br>  
 <br>  
 
-**Meta** \hfill Seattle, WA  
+**Facebook / Meta** \hfill Seattle, WA  
 Production Engineer \hfill Aug 2020 - Oct 2022  
 
-- Sped up deployment and testing process for software engineering team, saving hundreds of engineering hours per year
+- Reduced deployment and testing time by 50%, saving hundreds of engineering hours per year, by automating manual steps and improving tooling
 - Automated configuration, reducing the total amount of configuration by thousands of lines and allowing for dynamic container cluster generation
 - Scoped, roadmapped, and successfully managed intern project - ephemeral containers - freeing up computing resources and speeding up development, testing and CI/CD pipeline
 - Developed chaos framework to test high-scale, distributed transaction store against network partitions
@@ -37,8 +38,7 @@ Production Engineer \hfill Aug 2020 - Oct 2022
 **Institute for Health Metrics and Evaluation** \hfill Seattle, WA  
 Software Engineer \hfill May 2019 - Jul 2020  
 
-- Worked on a small engineering team helping to maximize the efficiency of the research pipeline
-- Wrote software to enhance workflow of researchers running statistical models, decreasing filesystem usage over 60%
+- Designed and implemented tooling to enhance workflow of researchers, decreasing filesystem usage over 60%
 - Distributed the generation of internal data structures over an HPC cluster, increasing speed of generation over 100x
 <br>  
 <br>  
@@ -46,7 +46,6 @@ Software Engineer \hfill May 2019 - Jul 2020
 **Mosaic Data Science** \hfill Leesburg, VA   
 Data Science Intern \hfill May 2018 - Aug 2018     
 
-- Worked with Mosaic's Data Science team on both private and public sector projects
 - Provided simulation analysis for NASA's Management-by-Trajectory program
 - Developed recommender system for 3PL client, including ETL, machine learning model, and API
 <br>  
@@ -60,9 +59,9 @@ Research Assistant \hfill Jan 2017 - Aug 2017
 
 ## Skills \hrulefill
 
-**Languages**: Bash, Python, R, SQL   
+**Languages**: Bash, Python, SQL 
 
-**Tools / Specialties**: AWS, CI/CD, Docker, Git, Linux Systems, Testing (chaos, end-to-end, integration, performance, systems) 
+**Tools / Specialties**: AWS, CI/CD, Docker, Git, Infrastructure as Code (Ansible, Terraform, etc.), Linux Systems, Testing (chaos, end-to-end, integration, performance, systems) 
 
 ## Education \hrulefill
 
