@@ -10,7 +10,7 @@ fontfamily: clearsans
 
 # Tim Whitson 
 
-Athens / Atlanta, GA | [twhitsn@gmail.com](mailto:twhitsn@gmail.com) | [linkedin.com/in/tim-whitson](https://linkedin.com/in/tim-whitson)
+[twhitsn@gmail.com](mailto:twhitsn@gmail.com) | [linkedin.com/in/tim-whitson](https://linkedin.com/in/tim-whitson)
 
 ## Work Experience \hrulefill
 
@@ -20,7 +20,7 @@ Software Engineer \hfill Nov 2022 - Present
 
 - Working on a cross-functional team of Software and Cybersecurity Engineers, automating adversary emulation and integrating security testing into development pipelines for multiple high-stake government customers
 - Designed and implemented integration testing framework, preventing hundreds of bugs from entering production
-- Spearheaded the design and implementation of a new deployment system, leading a team of cross-functional senior engineers that reduced deployment time by 90%
+- Led the design and implementation of a new deployment system, supervising a team of cross-functional senior engineers that reduced deployment time by 90%
 - Drove improvement of organization processes, such as design, documentation, tasking and mentoring, resulting in less rework, streamlined task management, and productivity improvements
 <br>  
 <br>  
@@ -30,7 +30,7 @@ Production Engineer \hfill Aug 2020 - Oct 2022
 
 - Reduced deployment and testing time by 50%, saving hundreds of engineering hours per year, by automating manual steps and improving tooling
 - Automated configuration, reducing the total amount of configuration by thousands of lines and allowing for dynamic container cluster generation
-- Scoped, roadmapped, and successfully managed intern project - ephemeral containers - freeing up computing resources and speeding up development, testing and CI/CD pipeline
+- Scoped, roadmapped, and successfully managed intern project - ephemeral containers - freeing up computing resources and speeding up development, testing, and CI/CD pipeline
 - Developed chaos framework to test high-scale, distributed transaction store against network partitions
 <br>  
 <br>  
@@ -61,7 +61,7 @@ Research Assistant \hfill Jan 2017 - Aug 2017
 
 **Languages**: Bash, Python, SQL 
 
-**Tools / Specialties**: AWS, CI/CD, Docker, Git, Infrastructure as Code (Ansible, Terraform, etc.), Linux Systems, Testing (chaos, end-to-end, integration, performance, systems) 
+**Tools / Specialties**: AWS, CI/CD, Container Orchestration, Git, Infrastructure as Code (Ansible, Terraform, etc.), Linux Systems, Testing (chaos, end-to-end, integration, performance, systems) 
 
 ## Education \hrulefill
 
