@@ -31,7 +31,7 @@ Tech: Ansible, Bash, Github, Kubernetes, Linux Systems, Python, PostgreSQL, Terr
 **Facebook / Meta** \hfill Seattle, WA   
 *Production Engineer* \hfill Aug 2020 - Oct 2022  
 
-Supported production of a distributed transactional store w/ high availablibility, performance, scale and throughput.
+Supported production of a distributed transactional store w/ high availability, performance, scale and throughput.
 
 Tech: Bash, Buck2, C++, Linux Systems, Python, SQL, Testing (chaos, end-to-end, integration, performance), Custom Internal Tooling (CI/CD, Container Orchestration, Infrastructure as Code)
 
