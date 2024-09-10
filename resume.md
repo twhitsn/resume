@@ -22,7 +22,7 @@ header-includes:
 Working on a cross-functional team of Software and Cybersecurity Engineers, automating adversary emulation and integrating security testing into development pipelines for multiple high-stake government customers.
 
 
-- **Tech:** Ansible, Bash, Github, Kubernetes, Linux Systems, Python, SQL, Terraform
+- **Tech:** Ansible, Bash, Github, Helm, Kubernetes, Linux Systems, Python, SQL, Terraform
 - Led the design and implementation of a new deployment system, supervising a team of senior engineers, that reduced deployment time by 90%
 - Drove improvement of organization processes, such as design, documentation, tasking and mentoring, resulting in less rework, streamlined task management, and productivity improvements
 <br>  
