@@ -32,7 +32,7 @@ Working on a cross-functional team of Software and Cybersecurity Engineers, auto
 
 Supported production of a distributed transactional store w/ high availability, performance, scale and throughput.
 
-- **Tech:** Bash, Buck2, C++, Linux Systems, Python, SQL, Custom Internal Tooling (CI/CD, Container Orchestration, Infrastructure as Code)
+- **Tech:** Bash, Buck2, C++, Linux Systems, Python, SQL, Custom Internal Tooling (CI/CD, Container Orchestration, Infrastructure as Code), Testing (chaos, end-to-end, integration, performance, systems)
 - Reduced deployment and testing time by 50%, saving hundreds of engineering hours per year, by automating manual steps and improving tooling
 - Automated configuration, reducing the total amount of configuration by thousands of lines and allowing for dynamic container cluster generation
 - Scoped, roadmapped, and successfully managed intern project - ephemeral containers - freeing up computing resources and speeding up development, testing, and CI/CD pipeline
