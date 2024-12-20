@@ -11,51 +11,44 @@ header-includes:
 \setlist{itemsep=5cm} 
 
 # Tim Whitson
-
-[twhitsn@gmail.com](mailto:twhitsn@gmail.com) | [linkedin.com/in/tim-whitson](https://linkedin.com/in/tim-whitson)
+[twhitsn@gmail.com](mailto:twhitsn@gmail.com) | [(812) 325-5891](tel:8123255891) | [linkedin.com/in/tim-whitson](https://linkedin.com/in/tim-whitson)
 
 ## Work Experience \hrulefill
 
 **Rebellion Defense** \hfill Remote  
 *Software Engineer* \hfill Nov 2022 - Present
 
-Working on a cross-functional team of Software and Cybersecurity Engineers, automating adversary emulation and integrating security testing into development pipelines for multiple high-stake government customers.
+- Led the design and implementation of a new deployment system, supervising a team of senior engineers and reducing deployment time from days to minutes
+- Enhanced organizational processes (design, documentation, mentoring), reducing rework and improving productivity across the team, organization, and company
+- Implemented new testing strategy and pipeline across multiple teams, catching innumerable bugs before reaching production and improving reliability
+- Worked with government clients to deploy mission-critical applications in secure environments, contributing to the overall reliability and security of systems
 
-
-- **Tech:** Ansible, Bash, Github, Helm, Kubernetes, Linux Systems, Python, SQL, Terraform
-- Led the design and implementation of a new deployment system, supervising a team of senior engineers, that reduced deployment time by 90%
-- Drove improvement of organization processes, such as design, documentation, tasking and mentoring, resulting in less rework, streamlined task management, and productivity improvements
+*Key Tech:* Ansible, Bash, Github, Helm, Kubernetes, Linux Systems, Python, SQL, Terraform
 <br>  
 
 **Facebook / Meta** \hfill Seattle, WA   
 *Production Engineer* \hfill Aug 2020 - Oct 2022  
 
-Supported production of a distributed transactional store w/ high availability, performance, scale and throughput.
+- Focused on high-availability, performance, and scalability within a distributed transactional store, ensuring reliability in production
+- Automated deployment and testing workflows, reducing deployment and testing time by 50%, saving hundreds of engineering hours per year
+- Developed dynamic container cluster configuration, reducing the amount of configuration by thousands of lines and improving scalability
+- Scoped, roadmapped, and successfully managed an intern project to implement ephemeral clusters, optimizing computing resources and speeding up development, testing, and CI/CD pipelines
 
-- **Tech:** Bash, Buck2, C++, Configerator (configuration as code), Conveyor (CI/CD), Linux Systems, Python, SQL, Testing (chaos, end-to-end, integration, performance), Tupperware (container orchestration)
-- Reduced deployment and testing time by 50%, saving hundreds of engineering hours per year, by automating manual steps and improving tooling
-- Automated configuration, reducing the total amount of configuration by thousands of lines and allowing for dynamic container cluster generation
-- Scoped, roadmapped, and successfully managed intern project - ephemeral containers - freeing up computing resources and speeding up development, testing, and CI/CD pipeline
+*Key Tech:* Bash, Buck2, C++, Configerator (configuration as code), Conveyor (CI/CD), Linux Systems, Python, SQL, Testing (chaos, end-to-end, integration, performance), Tupperware (container orchestration)
 <br>  
  
 **Institute for Health Metrics and Evaluation** \hfill Seattle, WA  
 *Software Engineer* \hfill May 2019 - Jul 2020  
 
-Worked on a small engineering team helping to maximize the efficiency of the research pipeline.
+- Worked in a collaborative, cross-functional environment to address complex challenges and ensure reliable infrastructure for high-impact research
+- Optimized research workflow and improved efficiency in handling large data sets
+- Designed and implemented distributed tooling for high-performance computing
 
-- **Tech:** CSS, HTML, Javascript, Jenkins, Kubernetes, Python, R, SQL
-- Designed and implemented tooling to enhance workflow of researchers, decreasing filesystem usage over 60%
-- Distributed the generation of internal data structures over an HPC cluster, increasing speed over 100x
+*Key Tech:* CSS, HTML, Javascript, Jenkins, Kubernetes, Python, R, SQL
 <br>  
 
 **Mosaic Data Science** \hfill Leesburg, VA  
 *Data Science Intern* \hfill May 2018 - Aug 2018     
-
-Worked with Mosaic’s Data Science team on both private and public sector projects.
-
-- **Tech:** Python, SQL
-- Provided simulation analysis for NASA's Management-by-Trajectory program
-- Developed recommender system for 3PL client, including ETL, machine learning model, and API
 
 **Indiana University** \hfill Bloomington, IN  
 *Research Assistant* \hfill Jan 2017 - Aug 2017  
