@@ -23,7 +23,7 @@ header-includes:
 - Implemented new testing strategy and pipeline across multiple teams, catching innumerable bugs before reaching production and improving reliability
 - Worked with government clients to deploy mission-critical applications in secure environments, contributing to the overall reliability and security of systems
 
-*Key Tech:* Ansible, Bash, Github, Helm, Kubernetes, Linux Systems, Pantsbuild, Python, SQL, Terraform
+*Key Tech:* Ansible, Bash, Github, Helm, Kubernetes, Linux Systems, Python, SQL, Terraform
 <br>  
 
 **Facebook / Meta** \hfill Seattle, WA   
@@ -50,14 +50,14 @@ header-includes:
 **Mosaic Data Science** \hfill Leesburg, VA  
 *Data Science Intern* \hfill May 2018 - Aug 2018     
 
-- Provided simulation analysis for NASA’s Management-by-Trajectory program 
-- Developed recommender system for 3PL client, including ETL, machine learning model, and API
-
-*Key Tech:* Python, SQL
-<br>  
-
 **Indiana University** \hfill Bloomington, IN  
 *Research Assistant* \hfill Jan 2017 - Aug 2017  
+
+**3rd Sheet, LLC** \hfill Bloomington, IN  
+*Owner / Web and Mobile Developer* \hfill Jun 2011 - Jan 2016  
+
+**82nd Airborne Division, US Army** \hfill US / Abroad  
+*Infantryman* \hfill May 2005 - Apr 2009  
 
 ## Education \hrulefill
 
